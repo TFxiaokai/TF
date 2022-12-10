@@ -31,4 +31,4 @@
 
 ##Finally
 
-If you think the project is good 👏， Just give it to a star ⭐  Encourage~
+If you think the project is good 👏， Just give it to a star ⭐  to  Encourage~
