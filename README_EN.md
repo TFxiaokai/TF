@@ -2,17 +2,21 @@
 
 ##Preview address
 -  😋  Project online preview address: https://tfxiaokai.github.io/TF/
+
 ##Recent Updates
+
 ###Update function
 -Special effect function:
 -Cherry Blossom Effect
 -Click on special effects
 -Mouse pointer tail effect
+
 ###To be optimized
 -Slow page loading
 -Not suitable for mobile terminal
 
 ##Language based
+
 ###front-end web
 - html
 - css
